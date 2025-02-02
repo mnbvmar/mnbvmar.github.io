@@ -18,7 +18,7 @@ See also my [DBLP page](https://dblp.org/pid/287/4919-1.html).
       {% for author_id in paper.authors %}
         {% assign author = site.data.people[author_id] %}
         {% if author.url %}
-          <a href="author.url">{{ author.name }}</a>
+          <a href="{{ author.url }}">{{ author.name }}</a>
         {%- else %}
           {{ author.name }}
         {%- endif %}
