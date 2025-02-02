@@ -1,0 +1,260 @@
+papers:
+  - title: Fully dynamic biconnectivity in Õ(log<sup>2</sup> n) time
+    authors:
+      - jholm
+      - wnadara
+      - erotenberg
+      - msokolowski
+    year: 2025
+    venues:
+      - title: STOC 2025
+
+
+  - title: Almost-linear time parameterized algorithm for rankwidth via dynamic rankwidth
+    authors:
+      - tkorhonen
+      - msokolowski
+    year: 2024
+    venues:
+      - title: STOC 2024
+        link: https://dl.acm.org/doi/abs/10.1145/3618260.3649732
+      
+      - title: arXiV
+        link: https://arxiv.org/abs/2402.12364
+
+
+  - title: Exact Shortest Paths with Rational Weights on the Word RAM
+    authors:
+      - akarczmarz
+      - wnadara
+      - msokolowski
+    year: 2024
+    venues:
+      - title: SODA 2024
+        link: https://epubs.siam.org/doi/10.1137/1.9781611977912.92
+      
+      - title: arXiV
+        link: https://arxiv.org/abs/2311.03321
+  
+
+  - title: Fully Dynamic Approximation Schemes on Planar and Apex-Minor-Free Graphs
+    authors:
+      - tkorhonen
+      - wnadara
+      - mipilipczuk
+      - msokolowski
+    year: 2024
+    venues:
+      - title: SODA 2024
+        link: https://epubs.siam.org/doi/10.1137/1.9781611977912.12
+
+      - title: arXiV
+        link: https://arxiv.org/abs/2310.20623
+  
+
+  - title: Detecting Points in Integer Cones of Polytopes is Double-Exponentially Hard
+    authors:
+      - lkowalik
+      - alassota
+      - kmajewski
+      - mipilipczuk
+      - msokolowski
+    year: 2024
+    venues:
+      - title: SOSA 2024
+        link: https://epubs.siam.org/doi/10.1137/1.9781611977936.25
+      
+      - title: arXiV
+        link: https://arxiv.org/abs/2307.00406
+  
+
+  - title: Elementary first-order model checking for sparse graphs
+    authors:
+      - jgajarsky
+      - mipilipczuk
+      - storunczyk
+      - gstamoulis
+      - msokolowski
+    year: 2024
+    venues:
+      - title: LICS 2024
+        link: https://dl.acm.org/doi/10.1145/3661814.3662094
+      
+      - title: arXiV
+        link: https://doi.org/10.48550/arXiv.2401.16230
+
+
+  - title: Half-integral Erdös-Pósa property for non-null S-T paths
+    authors:
+      - vchekan
+      - cgeniet
+      - mhatzel
+      - mipilipczuk
+      - msokolowski
+      - mseweryn
+      - mwitkowski
+    year: 2024
+    venues:
+      - title: arXiV
+        link: https://arxiv.org/abs/2408.16344
+
+
+  - title: Dynamic Treewidth
+    authors:
+      - tkorhonen
+      - kmajewski
+      - wnadara
+      - mipilipczuk
+      - msokolowski
+    year: 2023
+    venues:
+      - title: FOCS 2023
+        link: https://doi.ieeecomputersociety.org/10.1109/FOCS57990.2023.00105
+
+      - title: arXiV
+        link: https://arxiv.org/abs/2304.01744
+
+
+  - title: Graphs of bounded twin-width are quasi-polynomially chi-bounded
+    authors:
+      - mipilipczuk
+      - msokolowski
+    year: 2023
+    venues:
+      - title: J. Comb. Theory B
+        link: https://doi.org/10.1016/j.jctb.2023.02.006
+      
+      - title: arXiV
+        link: https://arxiv.org/abs/2202.07608
+  
+
+  - title: Maintaining CMSO<sub>2</sub> properties on dynamic structures with bounded feedback vertex number
+    authors:
+      - kmajewski
+      - mipilipczuk
+      - msokolowski
+    year: 2023
+    venues:
+      - title: TOCT
+        link: https://dl.acm.org/doi/10.1145/3715884
+
+      - title: STACS 2023
+        link: https://doi.org/10.4230/LIPIcs.STACS.2023.46
+      
+      - title: arXiV
+        link: https://arxiv.org/abs/2107.06232
+
+  
+  - title: Simpler and faster algorithms for detours in planar digraphs
+    authors:
+      - mhatzel
+      - kmajewski
+      - mipilipczuk
+      - msokolowski
+    year: 2023
+    venues:
+      - title: SOSA 2023
+        link: https://doi.org/10.1137/1.9781611977585.ch15
+      
+      - title: arXiV
+        link: https://arxiv.org/abs/2301.02421
+    
+
+  - title: Flipper games for monadically stable graph classes
+    authors:
+      - jgajarsky
+      - nmahlmann
+      - rmccarty
+      - pohlmann
+      - mipilipczuk
+      - wprzybyszewski
+      - ssiebertz
+      - msokolowski
+      - storunczyk
+    year: 2023
+    venues:
+      - title: ICALP 2023
+        link: https://doi.org/10.4230/LIPIcs.ICALP.2023.128
+      
+      - title: arXiV
+        link: https://arxiv.org/abs/2301.13735
+    
+
+  - title: Sparse Graphs of Twin-Width 2 Have Bounded Tree-Width
+    authors:
+      - bbergougnoux
+      - jgajarsky
+      - gguspiel
+      - phlineny
+      - fpokryvka
+      - msokolowski
+    year: 2023
+    venues:
+      - title: ISAAC 2023
+        link: https://doi.org/10.4230/LIPIcs.ISAAC.2023.11
+
+      - title: arXiV
+        link: https://arxiv.org/abs/2307.01732
+
+
+  - title: "Max Weight Independent Set in Graphs with No Long Claws: An Analog of the Gyárfás' Path Argument"
+    authors:
+      - kmajewski
+      - tmasarik
+      - jmasarikova
+      - kokrasa
+      - mapilipczuk
+      - przazewski
+      - msokolowski
+    year: 2022
+    venues:
+      - title: ICALP 2022
+        link: https://drops.dagstuhl.de/opus/volltexte/2022/16434/
+      
+      - title: arXiV
+        link: https://arxiv.org/abs/2203.04836
+
+  
+  - title: Compact Representation for Matrices of Bounded Twin-Width
+    authors:
+      - mipilipczuk
+      - msokolowski
+      - azych
+    year: 2022
+    venues:
+      - title: STACS 2022
+        link: https://drops.dagstuhl.de/opus/volltexte/2022/15862/
+      
+      - title: arXiV
+        link: https://arxiv.org/abs/2110.08106
+  
+
+  - title: Determining 4-Edge-Connected Components in Linear Time
+    authors:
+      - wnadara
+      - mradecki
+      - msmulewicz
+      - msokolowski
+    year: 2021
+    venues:
+      - title: ESA 2021
+        link: https://drops.dagstuhl.de/opus/volltexte/2021/14652/
+        comment: best student paper
+      
+      - title: arXiV
+        link: https://arxiv.org/abs/2105.01699
+
+  
+  - title: Bounds on Half Graph Orders in Powers of Sparse Graphs
+    authors:
+      - msokolowski
+    year: 2021
+    venues:
+      - title: Elec. J. Comb.
+        link: https://doi.org/10.37236/11063
+      
+      - title: EUROCOMB 2021
+        link: https://link.springer.com/chapter/10.1007/978-3-030-83823-2_39
+      
+      - title: arXiV
+        link: https://arxiv.org/abs/2103.06218
