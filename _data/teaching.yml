@@ -1,0 +1,73 @@
+courses:
+  - name: Computer Architecture and Operating Systems
+    year: 2023/2024
+    lang: pl
+    type: lab
+    links:
+      - name: usos
+        url: https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&zaj_cyk_id=515366&gr_nr=7
+  
+  - name: Selected Topics in Graph Theory
+    year: 2022/2023
+    lang: en
+    type: tutorials
+    links:
+      - name: usos
+        url: https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=1000-2M12WTG
+  
+  - name: Introduction to Programming
+    year: 2022/2023
+    lang: pl
+    type: advanced tutorials
+    links:
+      - name: usos
+        url: https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=1000-211bWPI
+  
+  - name: Sparsity
+    year: 2021/2022
+    lang: en
+    type: tutorials
+    links:
+      - name: usos
+        url: https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=1000-2M12GRZ
+      - name: course webpage
+        url: https://www.mimuw.edu.pl/~mp248287/sparsity3/
+  
+  - name: Operating Systems
+    year: 2021/2022
+    lang: pl
+    type: lab
+    links:
+      - name: usos
+        url: https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=1000-214bSOB
+  
+  - name: Computational Complexity
+    year: 2020/2021
+    lang: en
+    type: tutorials
+    links:
+      - name: usos
+        url: https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=1000-218bZO
+      - name: group webpage
+        url: https://mimuw.edu.pl/~ms360974/edu/zlo21/
+  
+  - name: Introduction to Programming
+    year: 2020/2021
+    lang: pl
+    type: lab
+    links:
+      - name: usos
+        url: https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=1000-211bWPI
+  
+  - name: Languages, Automata and Computations
+    year: 2019/2020
+    lang: pl
+    type: tutorials
+    links:
+      - name: usos
+        url: https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=1000-214bJAO
+      - name: group webpage
+        url: https://www.mimuw.edu.pl/~ms360974/edu/jao20/
+      - name: Youtube
+        url: https://www.youtube.com/playlist?list=PLHdqytdFdyueOxDO_251MmjKWVo6BZKQC
+

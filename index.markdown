@@ -13,6 +13,8 @@ My supervisor is [Danupon Nanongkai](https://sites.google.com/site/dannanongkai/
 
 I did my PhD at the [University of Warsaw](https://www.mimuw.edu.pl/en/), advised by [Michał Pilipczuk](https://www.mimuw.edu.pl/~mp248287/).
 
+My research interests revolve around graph algorithms, dynamic data structures, parameterized complexity and structural graph theory.
+
 Want to see my [CV]({{site.baseurl}}/assets/cv.pdf)?
 
 My email: [msokolow<sub>(at)</sub>mpi-inf<sub>(dot)</sub>mpg<sub>(dot)</sub>de]().
