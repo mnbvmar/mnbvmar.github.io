@@ -8,6 +8,19 @@ papers:
     year: 2025
     venues:
       - title: STOC 2025
+  
+
+  - title: Low rank MSO
+    authors:
+      - mbojanczyk
+      - mipilipczuk
+      - wprzybyszewski
+      - msokolowski
+      - gstamoulis
+    year: 2025
+    venues:
+      - title: arXiV
+        link: https://arxiv.org/abs/2502.08476
 
 
   - title: Almost-linear time parameterized algorithm for rankwidth via dynamic rankwidth
