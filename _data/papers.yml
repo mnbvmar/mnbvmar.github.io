@@ -8,6 +8,9 @@ papers:
     year: 2025
     venues:
       - title: STOC 2025
+
+      - title: arXiV
+        link: https://arxiv.org/abs/2503.21733
   
 
   - title: Low rank MSO
