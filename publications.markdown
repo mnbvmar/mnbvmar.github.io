@@ -28,7 +28,7 @@ See also my [DBLP page](https://dblp.org/pid/287/4919-1.html).
       <b><i>{{ paper.title }}</i></b> <br />
       {% for venue in paper.venues %}
         {{ venue.title }}
-        {% if venue.link -%}
+        {%- if venue.link %}
           [<a href="{{ venue.link }}">link</a>]
         {%- endif -%}
         {% if venue.comment %}
