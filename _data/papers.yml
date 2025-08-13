@@ -1,4 +1,16 @@
 papers:
+  - title: Treedepth Inapproximability and Exponential ETH Lower Bound
+    authors:
+      - ebonnet
+      - dneuen
+      - msokolowski
+    year: 2025
+    venues:
+      - title: IPEC 2025
+
+      - title: arXiV
+        link: https://arxiv.org/abs/2507.13818
+
   - title: Fully dynamic biconnectivity in Õ(log<sup>2</sup> n) time
     authors:
       - jholm
@@ -8,6 +20,7 @@ papers:
     year: 2025
     venues:
       - title: STOC 2025
+        link: https://dl.acm.org/doi/10.1145/3717823.3718270
 
       - title: arXiV
         link: https://arxiv.org/abs/2503.21733
