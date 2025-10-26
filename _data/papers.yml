@@ -1,4 +1,17 @@
 papers:
+  - title: Strongly Polynomial Parallel Work-Depth Tradeoffs for Directed SSSP
+    authors:
+      - akarczmarz
+      - wnadara
+      - msokolowski
+    year: 2025
+    venues:
+      - title: SODA 2026
+
+      - title: arXiV
+        link: https://arxiv.org/abs/2510.19780
+
+
   - title: Treedepth Inapproximability and Exponential ETH Lower Bound
     authors:
       - ebonnet
@@ -10,6 +23,7 @@ papers:
 
       - title: arXiV
         link: https://arxiv.org/abs/2507.13818
+
 
   - title: Fully dynamic biconnectivity in Õ(log<sup>2</sup> n) time
     authors:
