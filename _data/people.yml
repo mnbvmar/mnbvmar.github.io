@@ -6,6 +6,10 @@ alassota:
   name: A. Lassota
   url: http://alexandra.lassota.net/
 
+areinald:
+  name: A. Reinald
+  url: https://duch.mimuw.edu.pl/~reinald/about/
+
 azych:
   name: A. Zych-Pawlewicz
   url: https://www.mimuw.edu.pl/~anka/
@@ -14,9 +18,21 @@ bbergougnoux:
   name: B. Bergougnoux
   url: https://benjaminbergougnoux.github.io/
 
+bberendsohn:
+  name: B. Berendsohn
+  url: https://page.mi.fu-berlin.de/beab/
+
 cgeniet:
   name: C. Geniet
   url: https://colingeniet.com/
+
+cmcfarland:
+  name: C. McFarland
+  url: https://sites.google.com/view/caleb-mcfarland/
+
+ddadush:
+  name: D. Dadush
+  url: https://homepages.cwi.nl/~dadush/
 
 dneuen:
   name: D. Neuen
@@ -46,6 +62,10 @@ jgajarsky:
   name: J. Gajarský
   url: https://sites.google.com/view/jakubgajarsky/
 
+jgollin:
+  name: J. P. Gollin
+  url: https://pascal-gollin.github.io/
+
 jholm:
   name: J. Holm
   url: https://dblp.org/pid/03/5844.html
@@ -57,6 +77,10 @@ jmasarikova:
 lkowalik:
   name: Ł. Kowalik
   url: https://www.mimuw.edu.pl/~kowalik/
+
+khendrey:
+  name: K. Hendrey
+  url: https://sites.google.com/view/kevinhendrey
 
 kmajewski:
   name: K. Majewski
@@ -73,6 +97,10 @@ mapilipczuk:
 mbojanczyk:
   name: M. Bojańczyk
   url: https://www.mimuw.edu.pl/~bojan/
+
+mgorsky:
+  name: M. Gorsky
+  url: https://www.mgorsky.com/
 
 mhatzel:
   name: M. Hatzel
@@ -102,6 +130,10 @@ mwitkowski:
   name: M. Witkowski
   url: https://mw.home.amu.edu.pl/
 
+mwlodarczyk:
+  name: M. Włodarczyk
+  url: https://www.mimuw.edu.pl/~mw277619/
+
 nmahlmann:
   name: N. Mählmann
   url: https://user.informatik.uni-bremen.de/nikmaehl/
@@ -118,9 +150,17 @@ przazewski:
   name: P. Rzążewski
   url: https://pages.mini.pw.edu.pl/~rzazewskip/www/
 
+pwollan:
+  name: P. Wollan
+  url: https://wwwusers.di.uniroma1.it/~wollan/
+
 rmccarty:
   name: R. McCarty
   url: https://mccarty.math.gatech.edu/
+
+soum:
+  name: Sang-il Oum
+  url: https://sangil.dimag.kr/
 
 ssiebertz:
   name: S. Siebertz
@@ -129,6 +169,14 @@ ssiebertz:
 storunczyk:
   name: Sz. Toruńczyk
   url: https://www.mimuw.edu.pl/~szymtor/
+
+swiederrecht:
+  name: S. Wiederrecht
+  url: https://www.wiederrecht.com/
+
+thuynh:
+  name: T. Huynh
+  url: https://sites.google.com/site/matroidintersection/
 
 tkorhonen:
   name: T. Korhonen

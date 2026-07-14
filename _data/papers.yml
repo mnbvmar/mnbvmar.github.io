@@ -1,15 +1,89 @@
 papers:
+  - title: Dynamic Detours
+    authors:
+      - ddadush
+      - mipilipczuk
+      - areinald
+      - msokolowski
+      - mwlodarczyk
+    year: 2026
+    venues:
+      - title: ESA 2026
+
+      - title: arXiV
+        link: https://arxiv.org/abs/2605.03225
+    
+
+  - title: Polynomial-size encoding of all cuts of small value in integer-valued symmetric submodular functions
+    authors:
+      - soum
+      - msokolowski
+    year: 2026
+    venues:
+      - title: ESA 2026
+
+      - title: arXiV
+        link: https://arxiv.org/abs/2603.10710
+
+
+  - title: Fast Decremental Tree Sums in Forests
+    authors:
+      - bberendsohn
+      - msokolowski
+    year: 2026
+    venues:
+      - title: ICALP 2026
+        link: https://doi.org/10.4230/LIPIcs.ICALP.2026.26
+      
+      - title: arXiV
+        link: https://doi.org/10.48550/arXiv.2605.06555
+  
+
+  - title: Low rank MSO
+    authors:
+      - mbojanczyk
+      - mipilipczuk
+      - wprzybyszewski
+      - msokolowski
+      - gstamoulis
+    year: 2026
+    venues:
+      - title: LICS 2026
+        link: https://doi.org/10.4230/LIPIcs.LICS.2026.22
+
+      - title: arXiV
+        link: https://arxiv.org/abs/2502.08476
+
+  
   - title: Strongly Polynomial Parallel Work-Depth Tradeoffs for Directed SSSP
     authors:
       - akarczmarz
       - wnadara
       - msokolowski
-    year: 2025
+    year: 2026
     venues:
       - title: SODA 2026
+        link: https://epubs.siam.org/doi/10.1137/1.9781611978971.214
 
       - title: arXiV
         link: https://arxiv.org/abs/2510.19780
+
+
+  - title: An Erdős-Pósa theorem for cycles and faces of distinct lengths
+    authors:
+      - jgollin
+      - mgorsky
+      - mhatzel
+      - khendrey
+      - thuynh
+      - cmcfarland
+      - msokolowski
+      - swiederrecht
+      - pwollan
+    year: 2026
+    venues:
+      - title: arXiV
+        link: https://arxiv.org/abs/2607.06869
 
 
   - title: Treedepth Inapproximability and Exponential ETH Lower Bound
@@ -38,19 +112,6 @@ papers:
 
       - title: arXiV
         link: https://arxiv.org/abs/2503.21733
-  
-
-  - title: Low rank MSO
-    authors:
-      - mbojanczyk
-      - mipilipczuk
-      - wprzybyszewski
-      - msokolowski
-      - gstamoulis
-    year: 2025
-    venues:
-      - title: arXiV
-        link: https://arxiv.org/abs/2502.08476
 
 
   - title: Almost-linear time parameterized algorithm for rankwidth via dynamic rankwidth
